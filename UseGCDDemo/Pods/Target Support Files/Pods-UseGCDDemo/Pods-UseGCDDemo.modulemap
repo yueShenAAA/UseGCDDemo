@@ -1,0 +1,6 @@
+framework module Pods_UseGCDDemo {
+  umbrella header "Pods-UseGCDDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
